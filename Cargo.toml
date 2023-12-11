@@ -1,7 +1,12 @@
 [package]
-name = "example"
+name = "ju-tcs-rust-23-2"
 version = "0.1.0"
 edition = "2021"
+description = "Unix-like utils"
+license-file = "LICENSE"
+homepage = "https://github.com/honvex-cool/ju-tcs-rust-23-2"
+repository = "https://github.com/honvex-cool/ju-tcs-rust-23-2"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
