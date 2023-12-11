@@ -6,6 +6,7 @@ description = "Unix-like utils"
 license-file = "LICENSE"
 homepage = "https://github.com/honvex-cool/ju-tcs-rust-23-2"
 repository = "https://github.com/honvex-cool/ju-tcs-rust-23-2"
+readme = "README.md"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
